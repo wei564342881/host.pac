@@ -21,11 +21,12 @@ var hostsList = [
 
 // blackList (url(keyword) or domain)
 var blackList = [
-		{url:'http://58.215.179.159/'},
-	  {url:'http://bbs.hbqc.com/ad/'},
-	  {url:'http://www.dygang.com/d/'},
+    {url:'http://58.215.179.159/'},
+    {url:'http://bbs.hbqc.com/ad/'},
+    {url:'http://www.dygang.com/d/'},
     {url:'http://alimama.com/'},
-    {url:'http://alimama.cn/'}
+    {url:'http://alimama.cn/'}，
+	{url:'http://www.alimama.com/'}
 ];
 
 // whiteList (root domain) for block digital domain
